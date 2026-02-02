@@ -46,6 +46,8 @@ Alguns conceitos, formulas e notas estarão dentro do próprio arquivo .ipynb. A
 5. Medidas de posição e dipersão:
   - [Média, Mediana e Moda](./Notebooks/Média_Mediana_e_Moda.ipynb)
   - [Média Geométrica, Harmônica e Quadrática](./Notebooks/Media_geometrica,_harmonica_e_quadratica.ipynb)
+  - [Quartis](./Notebooks/Quartis.ipynb)
+  - [Exercício 04](./Exercises/Exercício04.ipynb)
 6. Distribuição estatística:
 7. Probabilidade
 8. Invervalos de confiança e testes de hipóteses: 
