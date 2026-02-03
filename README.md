@@ -48,6 +48,7 @@ Alguns conceitos, formulas e notas estarão dentro do próprio arquivo .ipynb. A
   - [Média Geométrica, Harmônica e Quadrática](./Notebooks/Media_geometrica,_harmonica_e_quadratica.ipynb)
   - [Quartis](./Notebooks/Quartis.ipynb)
   - [Exercício 04](./Exercises/Exercício04.ipynb)
+  - [Outras Medidas de Dispersão](./Notebooks/Outras_Medidas_de_Dispersão.ipynb)
 6. Distribuição estatística:
 7. Probabilidade
 8. Invervalos de confiança e testes de hipóteses: 
