@@ -49,6 +49,7 @@ Alguns conceitos, formulas e notas estarão dentro do próprio arquivo .ipynb. A
   - [Quartis](./Notebooks/Quartis.ipynb)
   - [Exercício 04](./Exercises/Exercício04.ipynb)
   - [Outras Medidas de Dispersão](./Notebooks/Outras_Medidas_de_Dispersão.ipynb)
+  - [Avaliação de Algoritmos de Machine Learning](./Notebooks/Avaliação_de_Algoritmos_de_Machine_Learning.ipynb)
 6. Distribuição estatística:
 7. Probabilidade
 8. Invervalos de confiança e testes de hipóteses: 
