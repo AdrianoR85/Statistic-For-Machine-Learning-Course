@@ -54,7 +54,8 @@ Alguns conceitos, formulas e notas estarão dentro do próprio arquivo .ipynb. A
   - [Distribuição Estatística](./Notebooks/Distriuição_Estatística.ipynb)
   - [Distribuição de Bernoulli](./Notebooks/Distribuição_de_Bernoulli.ipynb) 
   - [Distribuição Binomial](./Notebooks/Distribuição_Binomial.ipynb) 
-  - [Distribuição de Poisson](./Notebooks/Distribuição_de_Poisson.ipynb) 
+  - [Distribuição de Poisson](./Notebooks/Distribuição_de_Poisson.ipynb)
+  - [Exercício 05](./Exercises/Exercício05.ipynb)
 7. Probabilidade
 8. Invervalos de confiança e testes de hipóteses: 
 9. Correlação e regressão
