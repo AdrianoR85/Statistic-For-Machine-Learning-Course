@@ -51,6 +51,8 @@ Alguns conceitos, formulas e notas estarão dentro do próprio arquivo .ipynb. A
   - [Outras Medidas de Dispersão](./Notebooks/Outras_Medidas_de_Dispersão.ipynb)
   - [Avaliação de Algoritmos de Machine Learning](./Notebooks/Avaliação_de_Algoritmos_de_Machine_Learning.ipynb)
 6. Distribuição estatística:
+  - [Distribuição de Bernoulli](./Notebooks/Distribuição_de_Bernoulli.ipynb) 
+  - [Distribuição Binomial](./Notebooks/Distribuição_Binomial.ipynb) 
 7. Probabilidade
 8. Invervalos de confiança e testes de hipóteses: 
 9. Correlação e regressão
