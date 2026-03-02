@@ -63,6 +63,9 @@ Alguns conceitos, formulas e notas estarão dentro do próprio arquivo .ipynb. A
 11. Considerações Finais.
 
 ---
+## Tipos de distribuição
+![](./assets/tipos_de_distribuicoes.png)
+
 
 ## Link do curso:
 [Estatística para Ciência de Dados e Machine Learning](https://www.udemy.com/course/estatistica-para-ciencia-de-dados-machine-learning/)
