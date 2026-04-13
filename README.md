@@ -56,6 +56,7 @@ Alguns conceitos, formulas e notas estarão dentro do próprio arquivo .ipynb. A
   - [Distribuição Binomial](./Notebooks/Distribuição_Binomial.ipynb) 
   - [Distribuição de Poisson](./Notebooks/Distribuição_de_Poisson.ipynb)
   - [Exercício 05](./Exercises/Exercício05.ipynb)
+  - [Pesos em Redes Neurais Artificiais](./Notebooks/Pesos_em_Redes_Neurais_Artificiais.ipynb)
 7. Probabilidade
 8. Invervalos de confiança e testes de hipóteses: 
 9. Correlação e regressão
