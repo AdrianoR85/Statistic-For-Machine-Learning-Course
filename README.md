@@ -58,6 +58,7 @@ Alguns conceitos, formulas e notas estarão dentro do próprio arquivo .ipynb. A
   - [Exercício 05](./Exercises/Exercício05.ipynb)
   - [Pesos em Redes Neurais Artificiais](./Notebooks/Pesos_em_Redes_Neurais_Artificiais.ipynb)
 7. Probabilidade
+  - [Básico Sobre_Probabilidade](./Notebooks/Básico_Sobre_Probabilidade.ipynb)
 8. Invervalos de confiança e testes de hipóteses: 
 9. Correlação e regressão
 10. Visualização:
